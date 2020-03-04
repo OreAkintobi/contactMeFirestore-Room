@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "798855320580",
+    "firebase_url": "https://contactme-integrated-storage.firebaseio.com",
+    "project_id": "contactme-integrated-storage",
+    "storage_bucket": "contactme-integrated-storage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798855320580:android:6eef96f4d080d7848c5151",
+        "android_client_info": {
+          "package_name": "com.ore.contactapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798855320580-mp97qnp2jaa8s39obul2td5bciau00fo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTAHWtbHqPnpCwUyvS25AKKedWlQOPhRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798855320580-mp97qnp2jaa8s39obul2td5bciau00fo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

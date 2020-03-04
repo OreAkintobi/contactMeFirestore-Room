@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <SwitchPreference
+        android:id="@+id/switchMode"
+        android:defaultValue="false"
+        android:key="switch"
+        android:summary="Click to switch to Light Mode or Dark Mode"
+        android:switchTextOn="Dark Mode"
+        android:title="Switch Preference"
+        app:switchTextOff="Light Mode" />
+
+    <Preference
+        android:key="about"
+        android:summary="Read About the Developer"
+        android:title="About the Developer">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:data="https://github.com/OreAkintobi" />
+    </Preference>
+
+</PreferenceScreen>

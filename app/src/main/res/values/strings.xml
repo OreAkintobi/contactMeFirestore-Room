@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ContactMe</string>
+    <string name="app_username">Name</string>
+    <string name="app_email">Email</string>
+    <string name="phone_no">Phone Number</string>
+    <string name="save_contact">Save Contact</string>
+
+    <string name="text_switch_default">Change Language</string>
+    <string name="text_switch_English">English</string>
+    <string name="text_switch_French">French</string>
+    <string name="open_app">Open ContactMe</string>
+    <string name="exit_app">Exit ContactMe</string>
+    <string name="sure">Are you sure you want to exit ContactMe?</string>
+    <string name="yes">Exit</string>
+    <string name="no">Cancel</string>
+    <string name="dialog_box_quit">Quit ContactMe</string>
+    <string name="toast_exiting_app">Now Exiting ContactMe...</string>
+    <string name="toast_open_app">Welcome to ContactMe!</string>
+    <string name="view_all_contacts">View All Contacts</string>
+    <string name="switch_view">Change View Mode</string>
+    <string name="settings">Preferences</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="contact_scrolling">Scrolling Contacts</string>
+    <string name="action_settings">Preferences</string>
+    <string name="logout">Logout</string>
+
+</resources>
